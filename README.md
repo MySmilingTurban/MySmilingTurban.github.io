@@ -37,4 +37,9 @@
 [![Discord](https://img.shields.io/discord/770349380942692352?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rx8qU7fCgk)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
+
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <img src='/gifs/keepsmiling.gif' width='350'>
