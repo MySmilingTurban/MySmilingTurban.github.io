@@ -19,18 +19,15 @@
 
 ---
 <img src='/gifs/learn.gif' align='left' height='100'>
-<div align='right'>
-  
+
 ### What I'm learning?
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 
-</div>
 
 ---
-<div align='center'>
 
 ### <img src='/Eyes.svg' width='15'> Exploration Point🛰
 
@@ -41,4 +38,3 @@
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
 <img src='/gifs/keepsmiling.gif' width='350'>
-</div>
