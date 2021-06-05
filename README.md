@@ -40,6 +40,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello World !](https://dev.to/thesmilingsikh/hello-world-28ph)
 <!-- BLOG-POST-LIST:END -->
 
 <img src='/gifs/keepsmiling.gif' width='350'>
