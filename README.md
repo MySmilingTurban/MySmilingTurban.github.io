@@ -33,8 +33,9 @@
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLOFtfd3WgqudTGxQn0AQEg?color=red&logo=youtube&style=for-the-badge&labelColor=d60202)](https://www.youtube.com/c/GurmeharSinghKhalsa)
 [![Views](https://img.shields.io/youtube/channel/views/UCLOFtfd3WgqudTGxQn0AQEg?color=blue&label=View%20count&logo=youtube&style=for-the-badge&labelColor=0b689d)](https://www.youtube.com/c/GurmeharSinghKhalsa)
-
 [![Discord](https://img.shields.io/discord/770349380942692352?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rx8qU7fCgk)
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thesmilingsikh/)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
 
