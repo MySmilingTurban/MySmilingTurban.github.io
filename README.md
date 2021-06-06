@@ -42,6 +42,16 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thesmilingsikh/)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blissfulkirtan)
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/GurmeharSinghKhalsa)
+
+---
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
