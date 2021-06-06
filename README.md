@@ -47,7 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Tie a Parna ?¿🤔 On popular demand 😎🔥 It's Tutorial time 🧐⌛](https://www.youtube.com/watch?v=u2Zt3UHD_jI)
+- [How to Tie a Parna ?¿🤔| On popular demand 😎🔥 | It's Tutorial time 🧐⌛](https://www.youtube.com/watch?v=u2Zt3UHD_jI)
 - [My Virtual Birthday Party 2021🎉 - Let's enjoy Life ❤️🔥 ft. Humans with Beautiful Heart 😇](https://www.youtube.com/watch?v=6M6jXYKWSMM)
 - [PowerPoint Supremacy Paradox - Quick ways to Improve your Designing skills](https://www.youtube.com/watch?v=ScVhdjE5quw)
 - [Welcome 2021 🎉🔥- New Year, New We!💪🏽](https://www.youtube.com/watch?v=FUXiyo1xen8)
