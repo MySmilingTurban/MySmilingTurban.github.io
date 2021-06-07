@@ -4,7 +4,7 @@
 █░░ █▀▀ ▀█▀ ▀ █▀   █▀▀ █▀█<br>
 █▄▄ ██▄ ░█░ ░ ▄█   █▄█ █▄█
 
-[<img src='https://c.tenor.com/hBIzH44sjrkAAAAj/trouble-naughty.gif' width="60px">]() [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')](https://mysmilingturban.github.io/main.html)
+[<img src='https://c.tenor.com/hBIzH44sjrkAAAAj/trouble-naughty.gif' width="60px">]() [![](https://img.shields.io/badge/Error404-Brain%20not%20found%20🧠-informational?style=plastic&logo=appveyor&logoColor=white&color=brightgreen 'Error 404')](https://mysmilingturban.github.io/index.html)
 
 <br/>
 
