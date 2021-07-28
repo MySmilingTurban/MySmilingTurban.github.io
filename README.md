@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Our Project is Up on the Web 🌐🤩👩‍💻| BaniDB.py with Khalis Foundation 🙌🏽 | #SikhTech #Python #Shorts](https://www.youtube.com/watch?v=8asqtQCZ8AI)
 - [How I got the Awesome Khalis Swag 😎 - A lot of programming skills👩‍💻 and thanks included 😇😂](https://www.youtube.com/watch?v=r1AVXW2TPmY)
 - [How to Tie a Parna ?¿🤔| On popular demand 😎🔥 | It's Tutorial time 🧐⌛](https://www.youtube.com/watch?v=u2Zt3UHD_jI)
 - [My Virtual Birthday Party 2021🎉 - Let's enjoy Life ❤️🔥 ft. Humans with Beautiful Heart 😇](https://www.youtube.com/watch?v=6M6jXYKWSMM)
 - [PowerPoint Supremacy Paradox - Quick ways to Improve your Designing skills](https://www.youtube.com/watch?v=ScVhdjE5quw)
-- [Welcome 2021 🎉🔥- New Year, New We!💪🏽](https://www.youtube.com/watch?v=FUXiyo1xen8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/GurmeharSinghKhalsa)
