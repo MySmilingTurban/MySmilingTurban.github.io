@@ -50,8 +50,8 @@
 - [I am Back from Nowhere😂🤫| 3 Awesome Projects being discussed👏🏾🤩👌🏻 #TheSmilingSikh](https://www.youtube.com/watch?v=u6NxWD9RrTg)
 - [Our Project is Up on the Web 🌐🤩👩‍💻| BaniDB.py with Khalis Foundation 🙌🏽 | #SikhTech #Python #Shorts](https://www.youtube.com/watch?v=8asqtQCZ8AI)
 - [How I got the Awesome Khalis Swag 😎 - A lot of programming skills👩‍💻 and thanks included 😇😂](https://www.youtube.com/watch?v=r1AVXW2TPmY)
-- [How to Tie a Parna ?¿🤔| On popular demand 😎🔥 | It's Tutorial time 🧐⌛](https://www.youtube.com/watch?v=u2Zt3UHD_jI)
-- [My Virtual Birthday Party 2021🎉 - Let's enjoy Life ❤️🔥 ft. Humans with Beautiful Heart 😇](https://www.youtube.com/watch?v=6M6jXYKWSMM)
+- [How to Tie a Parna ?¿🤔| On popular demand 😎🔥 | It&#39;s Tutorial time 🧐⌛](https://www.youtube.com/watch?v=u2Zt3UHD_jI)
+- [My Virtual Birthday Party 2021🎉 - Let&#39;s enjoy Life ❤️🔥 ft. Humans with Beautiful Heart 😇](https://www.youtube.com/watch?v=6M6jXYKWSMM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/GurmeharSinghKhalsa)
