@@ -21,11 +21,21 @@ p {
   margin: 10px;
 }
 
-a {
+a { 
+  color: white;
+  display:block;
+}
+
+.a1 {
+  position: absolute; 
+  left: 48%;
+  top: 45%;
+}
+
+.a2 {
   position: absolute;
   left: 48%;
-  top: 40%;  
-  color: white;
+  top: 80%;
 }
 
 .font-exo {
